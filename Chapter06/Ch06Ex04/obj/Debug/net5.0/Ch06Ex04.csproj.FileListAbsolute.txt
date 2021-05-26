@@ -1,0 +1,16 @@
+C:\Users\Sherlon\Desktop\Repository\Developing Windows App\Chapter06\Ch06Ex04\bin\Debug\net5.0\Ch06Ex04.exe
+C:\Users\Sherlon\Desktop\Repository\Developing Windows App\Chapter06\Ch06Ex04\bin\Debug\net5.0\Ch06Ex04.deps.json
+C:\Users\Sherlon\Desktop\Repository\Developing Windows App\Chapter06\Ch06Ex04\bin\Debug\net5.0\Ch06Ex04.runtimeconfig.json
+C:\Users\Sherlon\Desktop\Repository\Developing Windows App\Chapter06\Ch06Ex04\bin\Debug\net5.0\Ch06Ex04.runtimeconfig.dev.json
+C:\Users\Sherlon\Desktop\Repository\Developing Windows App\Chapter06\Ch06Ex04\bin\Debug\net5.0\Ch06Ex04.dll
+C:\Users\Sherlon\Desktop\Repository\Developing Windows App\Chapter06\Ch06Ex04\bin\Debug\net5.0\ref\Ch06Ex04.dll
+C:\Users\Sherlon\Desktop\Repository\Developing Windows App\Chapter06\Ch06Ex04\bin\Debug\net5.0\Ch06Ex04.pdb
+C:\Users\Sherlon\Desktop\Repository\Developing Windows App\Chapter06\Ch06Ex04\obj\Debug\net5.0\Ch06Ex04.csprojAssemblyReference.cache
+C:\Users\Sherlon\Desktop\Repository\Developing Windows App\Chapter06\Ch06Ex04\obj\Debug\net5.0\Ch06Ex04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sherlon\Desktop\Repository\Developing Windows App\Chapter06\Ch06Ex04\obj\Debug\net5.0\Ch06Ex04.AssemblyInfoInputs.cache
+C:\Users\Sherlon\Desktop\Repository\Developing Windows App\Chapter06\Ch06Ex04\obj\Debug\net5.0\Ch06Ex04.AssemblyInfo.cs
+C:\Users\Sherlon\Desktop\Repository\Developing Windows App\Chapter06\Ch06Ex04\obj\Debug\net5.0\Ch06Ex04.csproj.CoreCompileInputs.cache
+C:\Users\Sherlon\Desktop\Repository\Developing Windows App\Chapter06\Ch06Ex04\obj\Debug\net5.0\Ch06Ex04.dll
+C:\Users\Sherlon\Desktop\Repository\Developing Windows App\Chapter06\Ch06Ex04\obj\Debug\net5.0\ref\Ch06Ex04.dll
+C:\Users\Sherlon\Desktop\Repository\Developing Windows App\Chapter06\Ch06Ex04\obj\Debug\net5.0\Ch06Ex04.pdb
+C:\Users\Sherlon\Desktop\Repository\Developing Windows App\Chapter06\Ch06Ex04\obj\Debug\net5.0\Ch06Ex04.genruntimeconfig.cache
