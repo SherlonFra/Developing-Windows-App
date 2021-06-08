@@ -1,0 +1,31 @@
+C:\Users\Sherlon\Desktop\Repository\Developing Windows App\Chapter16\KarliCards\KarliCards GUI\obj\Debug\net5.0-windows\About.g.cs
+C:\Users\Sherlon\Desktop\Repository\Developing Windows App\Chapter16\KarliCards\KarliCards GUI\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Sherlon\Desktop\Repository\Developing Windows App\Chapter16\KarliCards\KarliCards GUI\obj\Debug\net5.0-windows\Options.g.cs
+C:\Users\Sherlon\Desktop\Repository\Developing Windows App\Chapter16\KarliCards\KarliCards GUI\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Sherlon\Desktop\Repository\Developing Windows App\Chapter16\KarliCards\KarliCards GUI\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Sherlon\Desktop\Repository\Developing Windows App\Chapter16\KarliCards\KarliCards GUI\obj\Debug\net5.0-windows\KarliCards GUI_MarkupCompile.cache
+C:\Users\Sherlon\Desktop\Repository\Developing Windows App\Chapter16\KarliCards\KarliCards GUI\obj\Debug\net5.0-windows\KarliCards GUI_MarkupCompile.lref
+C:\Users\Sherlon\Desktop\Repository\Developing Windows App\Chapter16\KarliCards\KarliCards GUI\obj\Debug\net5.0-windows\KarliCards GUI.csprojAssemblyReference.cache
+C:\Users\Sherlon\Desktop\Repository\Developing Windows App\Chapter16\KarliCards\KarliCards GUI\bin\Debug\net5.0-windows\KarliCards GUI.exe
+C:\Users\Sherlon\Desktop\Repository\Developing Windows App\Chapter16\KarliCards\KarliCards GUI\bin\Debug\net5.0-windows\KarliCards GUI.deps.json
+C:\Users\Sherlon\Desktop\Repository\Developing Windows App\Chapter16\KarliCards\KarliCards GUI\bin\Debug\net5.0-windows\KarliCards GUI.runtimeconfig.json
+C:\Users\Sherlon\Desktop\Repository\Developing Windows App\Chapter16\KarliCards\KarliCards GUI\bin\Debug\net5.0-windows\KarliCards GUI.runtimeconfig.dev.json
+C:\Users\Sherlon\Desktop\Repository\Developing Windows App\Chapter16\KarliCards\KarliCards GUI\bin\Debug\net5.0-windows\KarliCards GUI.dll
+C:\Users\Sherlon\Desktop\Repository\Developing Windows App\Chapter16\KarliCards\KarliCards GUI\bin\Debug\net5.0-windows\ref\KarliCards GUI.dll
+C:\Users\Sherlon\Desktop\Repository\Developing Windows App\Chapter16\KarliCards\KarliCards GUI\bin\Debug\net5.0-windows\KarliCards GUI.pdb
+C:\Users\Sherlon\Desktop\Repository\Developing Windows App\Chapter16\KarliCards\KarliCards GUI\obj\Debug\net5.0-windows\About.baml
+C:\Users\Sherlon\Desktop\Repository\Developing Windows App\Chapter16\KarliCards\KarliCards GUI\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Sherlon\Desktop\Repository\Developing Windows App\Chapter16\KarliCards\KarliCards GUI\obj\Debug\net5.0-windows\Options.baml
+C:\Users\Sherlon\Desktop\Repository\Developing Windows App\Chapter16\KarliCards\KarliCards GUI\obj\Debug\net5.0-windows\KarliCards GUI.g.resources
+C:\Users\Sherlon\Desktop\Repository\Developing Windows App\Chapter16\KarliCards\KarliCards GUI\obj\Debug\net5.0-windows\KarliCards GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sherlon\Desktop\Repository\Developing Windows App\Chapter16\KarliCards\KarliCards GUI\obj\Debug\net5.0-windows\KarliCards GUI.AssemblyInfoInputs.cache
+C:\Users\Sherlon\Desktop\Repository\Developing Windows App\Chapter16\KarliCards\KarliCards GUI\obj\Debug\net5.0-windows\KarliCards GUI.AssemblyInfo.cs
+C:\Users\Sherlon\Desktop\Repository\Developing Windows App\Chapter16\KarliCards\KarliCards GUI\obj\Debug\net5.0-windows\KarliCards GUI.csproj.CoreCompileInputs.cache
+C:\Users\Sherlon\Desktop\Repository\Developing Windows App\Chapter16\KarliCards\KarliCards GUI\obj\Debug\net5.0-windows\KarliCards GUI.dll
+C:\Users\Sherlon\Desktop\Repository\Developing Windows App\Chapter16\KarliCards\KarliCards GUI\obj\Debug\net5.0-windows\ref\KarliCards GUI.dll
+C:\Users\Sherlon\Desktop\Repository\Developing Windows App\Chapter16\KarliCards\KarliCards GUI\obj\Debug\net5.0-windows\KarliCards GUI.pdb
+C:\Users\Sherlon\Desktop\Repository\Developing Windows App\Chapter16\KarliCards\KarliCards GUI\obj\Debug\net5.0-windows\KarliCards GUI.genruntimeconfig.cache
+C:\Users\Sherlon\Desktop\Repository\Developing Windows App\Chapter16\KarliCards\KarliCards GUI\obj\Debug\net5.0-windows\StartGame.g.cs
+C:\Users\Sherlon\Desktop\Repository\Developing Windows App\Chapter16\KarliCards\KarliCards GUI\obj\Debug\net5.0-windows\StartGame.baml
+C:\Users\Sherlon\Desktop\Repository\Developing Windows App\Chapter16\KarliCards\KarliCards GUI\obj\Debug\net5.0-windows\GameClient.g.cs
+C:\Users\Sherlon\Desktop\Repository\Developing Windows App\Chapter16\KarliCards\KarliCards GUI\obj\Debug\net5.0-windows\GameClient.baml
